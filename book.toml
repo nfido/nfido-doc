@@ -1,0 +1,6 @@
+[book]
+authors = ["ZhiFeng Hu"]
+language = "en"
+multilingual = false
+src = "src"
+title = "nfido 文档项目"
